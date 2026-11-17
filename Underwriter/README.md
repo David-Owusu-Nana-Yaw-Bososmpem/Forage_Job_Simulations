@@ -63,5 +63,5 @@ Diamond Medi Spa, LLC is a medi-spa generating $3.2 million in gross revenue wit
 
 ---
 
-*This work was completed as part of the free AIG Underwriter job simulation on The Forage.*
+
 
