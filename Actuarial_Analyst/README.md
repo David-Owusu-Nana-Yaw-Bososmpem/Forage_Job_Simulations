@@ -1,4 +1,4 @@
-# Forage Actuarial Analyst Job Simulation – Task 2: Marine Liability Claims Analysis & Pricing
+# Forage Actuarial Analyst Job Simulation – Marine Liability Claims Analysis & Pricing
 
 **Company:** Oceanic Shipping Co. (fictional case study)  
 **Simulation Provider:** Forage  
@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This repository contains the completed deliverable for **Task 2** of the Forage Actuarial Analyst job simulation.
+This repository contains the completed deliverable for the Forage Actuarial Analyst job simulation.
 
 The objective was to analyse historical Marine Liability claims data for Oceanic Shipping Co., perform exploratory data analysis, apply actuarial pricing principles (frequency × severity), develop an experience-based pure premium model, load for large losses, expenses and profit, and produce a recommended premium together with sensitivity analysis.
 
@@ -127,17 +127,7 @@ A premium of approximately **$13.0 – $13.8 million** is indicated for the fort
 | **Pure Premium Work** | Inflation indices, exposure data, frequency & severity calculations, large-loss loading, final premium build-up, sensitivity analysis, full list of assumptions |
 | **Report** | Placeholder for narrative management summary (can be extended) |
 
-File: [`Actuarial_Analyst_Task2_Marine_Liability_Claims_Analysis.xlsx`](Actuarial_Analyst_Task2_Marine_Liability_Claims_Analysis.xlsx)
-
----
-
-## How to Use / Reproduce
-
-1. Open the Excel workbook in Microsoft Excel or compatible software (Google Sheets / LibreOffice Calc may have limited pivot/chart support).
-2. Review the **Claims Data** sheet for the cleaned source data.
-3. Navigate to **Exploratory** for distribution and trend analysis.
-4. Review **Pure Premium Work** for the complete pricing build-up and sensitivity scenario.
-5. All key assumptions are listed explicitly so the model can be stress-tested or updated with new data.
+File: [`Marine_Liability_Claims_Analysis.xlsx`](Marine_Liability_Claims_Analysis.xlsx)
 
 ---
 
@@ -157,10 +147,3 @@ File: [`Actuarial_Analyst_Task2_Marine_Liability_Claims_Analysis.xlsx`](Actuaria
 
 ---
 
-## Disclaimer
-
-This work was completed as part of the **Forage Actuarial Analyst virtual job simulation**. It is an educational exercise based on a fictional scenario and dataset provided by Forage. It does not constitute professional actuarial advice for any real-world insurance programme.
-
----
-
-*Completed as part of the Forage job simulation programme.*
