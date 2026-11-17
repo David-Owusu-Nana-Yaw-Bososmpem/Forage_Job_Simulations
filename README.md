@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains four virtual job simulations completed through Forage, covering different professional functions within the insurance and data analytics industries.
+This repository contains three virtual job simulations completed through Forage, covering different professional functions within the insurance and data analytics industries.
 
 The projects provided opportunities to apply theoretical knowledge to practical business scenarios, develop analytical solutions and communicate findings.
 
